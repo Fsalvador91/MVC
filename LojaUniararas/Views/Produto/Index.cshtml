@@ -1,0 +1,32 @@
+﻿@using LojaUniararas.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Quantidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{foreach (var item in ViewBag.Produtos)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nome</td>
+                <td>@item.Quantidade</td>
+                <td>
+                    @*<a href="/Produto/Remover/@item.Id">Excluir</a>*@
+                    @Html.ActionLink("Excluir", "Remover", new { id = item.Id})
+                </td>
+            </tr>
+        }
+        }
+    </tbody>
+</table>
+

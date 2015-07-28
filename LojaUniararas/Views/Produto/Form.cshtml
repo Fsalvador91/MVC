@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Form";
+}
+
+<h2>Form</h2>
+<div>
+    @using (Html.BeginForm()){
+    <table>
+        <tr>
+            <td>
+                <label for="nome">Nome:</label>
+            </td>
+            <td>
+                <input id="nome" name="produto.Nome" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="preco">Preço:</label>
+            </td>
+            <td>
+                <input id="preco" name="produto.Preco" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="quantidade">Quantidade:</label>
+            </td>
+            <td>
+                <input id="quantidade" name="produto.Quantidade" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="descricao">Descrição:</label>
+            </td>
+            <td>
+                <input id="descricao" name="produto.Descricao" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="categoriaId">Categoria:</label>
+            </td>
+            <td>
+                <select id="categoria" name="produto.CategoriaID">
+                    @foreach (var item in ViewBag.Categorias)
+                    {
+                        <option value="@item.Id">@item.Nome</option>
+                    }
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="submeter" value="Submeter" />
+            </td>
+        </tr>
+    </table>
+    }
+</div>
+

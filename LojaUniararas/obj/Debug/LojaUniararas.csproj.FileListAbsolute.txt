@@ -1,0 +1,107 @@
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll.config
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\LojaUniararas.pdb
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Razor.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Razor.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.pdb
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\Npgsql.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\Mono.Security.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\Npgsql.pdb
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\Npgsql.xml
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\de\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\es\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\fi\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\fr\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\ja\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Acacio Melo\Documents\Visual Studio 2013\Projects\DSII\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\LojaUniararas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Razor.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\Mono.Security.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\Npgsql.pdb
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\Npgsql.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Razor.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.xml
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\de\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\es\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\fi\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\fr\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\ja\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.dll
+C:\Users\Felipe\Documents\Visual Studio 2012\Projects\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.pdb
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\LojaUniararas.pdb
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Razor.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Mono.Security.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Npgsql.pdb
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Npgsql.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Razor.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.xml
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\de\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\es\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\fi\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\fr\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\ja\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\zh-CN\Npgsql.resources.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.csprojResolveAssemblyReference.cache
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.dll
+E:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.pdb
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll.config
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\LojaUniararas.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\LojaUniararas.pdb
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Razor.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Mono.Security.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Npgsql.pdb
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\Npgsql.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Razor.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Deployment.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Webpages.Razor.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Helpers.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\System.Web.Mvc.xml
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\de\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\es\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\fi\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\fr\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\ja\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\bin\zh-CN\Npgsql.resources.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.csprojResolveAssemblyReference.cache
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.dll
+C:\Não clique\C#\Projetos\LojaUniararas\LojaUniararas\obj\Debug\LojaUniararas.pdb
